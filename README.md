@@ -17,12 +17,11 @@
 
 I'm a passionate software developer who loves building cool things with code.
 
+I love coding, learning and growing.
+
 ## 💬 Connect with me:
 - [LinkedIn](https://linkedin.com/in/amir-abdollahi-k)
 - [Personal Website](https://amir.abdollahi.dev)
-
-## ⚡ Fun fact:
-- I love coding, learning and growing.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmirAbdollahi&show_icons=true&count_private=true&include_all_commits=true" />
