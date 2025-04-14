@@ -28,7 +28,8 @@ My tech stack includes **ASP.NET Core**, **Angular**, **SQL Server**, and **Enti
 
 ## 💬 Connect with me:
 - [LinkedIn](https://linkedin.com/in/amir-abdollahi-k)
-- [Personal Website](https://amir.abdollahi.dev)
+- [Personal Blog](https://abdollahi.dev)
+- [My CV](https://amir.abdollahi.dev)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmirAbdollahi&show_icons=true&count_private=true&include_all_commits=true" />
