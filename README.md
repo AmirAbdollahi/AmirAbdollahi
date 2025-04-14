@@ -15,9 +15,16 @@
  </a>
 </p>
 
-I'm a passionate software developer who loves building cool things with code.
+👨‍💻 **Senior Full-Stack Developer | SQL Server DBA | ERP & E-Commerce Systems Expert**  
+🎯 Building scalable, data-driven web applications from front to back
 
-I love coding, learning and growing.
+I’m a full-stack developer and database professional with 8+ years of experience in designing and developing enterprise-level systems, including ERP and e-commerce platforms.
+
+My tech stack includes **ASP.NET Core**, **Angular**, **SQL Server**, and **Entity Framework**. I focus on clean architecture, performance optimization, and building robust backend and frontend solutions that solve real-world business problems.
+
+🧠 Master’s in AI & Robotics | Passionate about automation, system design, and cloud technologies (Azure, AWS)  
+🚀 Open to collaboration on full-stack projects, database performance tuning, and intelligent system design
+
 
 ## 💬 Connect with me:
 - [LinkedIn](https://linkedin.com/in/amir-abdollahi-k)
