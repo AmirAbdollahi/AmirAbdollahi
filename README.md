@@ -18,7 +18,7 @@
 👨‍💻 **Senior Full-Stack Developer | SQL Server DBA | ERP & E-Commerce Systems Expert**  
 🎯 Building scalable, data-driven web applications from front to back
 
-I’m a full-stack developer and database professional with 8+ years of experience in designing and developing enterprise-level systems, including ERP and e-commerce platforms.
+I’m a full-stack developer and database professional with 9+ years of experience in designing and developing enterprise-level systems, including ERP and e-commerce platforms.
 
 My tech stack includes **ASP.NET Core**, **Angular**, **SQL Server**, and **Entity Framework**. I focus on clean architecture, performance optimization, and building robust backend and frontend solutions that solve real-world business problems.
 
